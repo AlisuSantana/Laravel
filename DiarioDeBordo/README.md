@@ -8,9 +8,10 @@ com algumas perguntas sobre o andamento do seu projeto. A aplicação trabalha c
 ## Ferramentas 
 1. Framework Laravel
 2. Css
-3. Javascript / Jquery
-4. Sass
-5. Bootstrap
+3. Javascript
+4. Jquery
+5. Sass
+6. Bootstrap
 
 
 ## Interface da aplicação

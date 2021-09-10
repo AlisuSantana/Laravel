@@ -1,5 +1,5 @@
 
- # Controler Diário de Brodo
+ # Controle Diário de Brodo
  
  ### Plataforma para gerenciar seu **Diário De Bordo**. 
 Ao criar uma conta, o usuário poderá criar um projeto para pode preencher e enviar um documento de diário de bordo

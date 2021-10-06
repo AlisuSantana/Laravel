@@ -1,2 +1,2 @@
 # Laravel
-Sistemas em laravel
+templante login e sistemas CRUD com laravel
